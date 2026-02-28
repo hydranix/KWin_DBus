@@ -5,7 +5,12 @@
         "Description": "Exports virtual desktop and activity changes to D-Bus via the KWin D-Bus Bridge",
         "Category": "Window Management",
         "License": "GPL-3.0",
-        "Version": "1.0.0"
+        "Version": "1.0.0",
+        "Authors": [
+            {
+                "Name": "Hydranix"
+            }
+        ]
     },
     "X-Plasma-API": "javascript",
     "X-Plasma-MainScript": "code/main.js",
