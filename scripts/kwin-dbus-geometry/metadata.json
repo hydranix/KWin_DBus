@@ -1,0 +1,13 @@
+{
+    "KPlugin": {
+        "Id": "kwin-dbus-geometry",
+        "Name": "D-Bus Geometry Tracker",
+        "Description": "Exports window geometry changes to D-Bus via the KWin D-Bus Bridge",
+        "Category": "Window Management",
+        "License": "GPL-3.0",
+        "Version": "1.0.0"
+    },
+    "X-Plasma-API": "javascript",
+    "X-Plasma-MainScript": "code/main.js",
+    "KPackageStructure": "KWin/Script"
+}

@@ -1,0 +1,13 @@
+{
+    "KPlugin": {
+        "Id": "kwin-dbus-windows",
+        "Name": "D-Bus Window List Provider",
+        "Description": "Exports window list and lifecycle events to D-Bus via the KWin D-Bus Bridge",
+        "Category": "Window Management",
+        "License": "GPL-3.0",
+        "Version": "1.0.0"
+    },
+    "X-Plasma-API": "javascript",
+    "X-Plasma-MainScript": "code/main.js",
+    "KPackageStructure": "KWin/Script"
+}
